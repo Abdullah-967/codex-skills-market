@@ -1,0 +1,13 @@
+interface:
+  display_name: "Magic UI Expert"
+  short_description: "Implement, tune, and troubleshoot Magic UI"
+  default_prompt: "Use $magicui-expert to implement a polished Magic UI section with proper installation, composition, and performance checks."
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "magicui"
+      description: "Magic UI MCP component and source retrieval tools"
+
+policy:
+  allow_implicit_invocation: true

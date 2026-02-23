@@ -1,0 +1,3 @@
+display_name: Radix UI Expert
+short_description: Build, debug, and standardize Radix UI systems.
+default_prompt: Use $radix-ui-expert to implement accessible Radix Primitives/Themes components with production-ready composition, state, and styling patterns.

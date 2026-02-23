@@ -1,0 +1,3 @@
+display_name: Three.js MCP Expert
+short_description: Three.js MCP architecture, debugging, and scene orchestration.
+default_prompt: Use this skill to implement, troubleshoot, and optimize Three.js MCP server and client orchestration workflows including scene state management, WebSocket bridge operations, and tool execution.

@@ -1,0 +1,4 @@
+config.toml
+/*.md
+/apache-airflow-mcp-expert
+/.codex/*

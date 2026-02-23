@@ -1,0 +1,4 @@
+display_name: React Flow Expert
+short_description: Build, debug, and optimize React Flow apps with official APIs and best practices.
+default_prompt: Use this skill to implement, troubleshoot, and optimize React Flow flows with @xyflow/react, provider-aware hooks, and performance-safe state patterns.
+
