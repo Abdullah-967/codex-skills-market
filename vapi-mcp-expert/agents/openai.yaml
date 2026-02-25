@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vapi MCP Expert"
+  short_description: "Advanced Vapi MCP architecture and operations"
+  default_prompt: "Use advanced Vapi MCP workflows, reliability patterns, and anti-pattern checks for implementation and troubleshooting."
